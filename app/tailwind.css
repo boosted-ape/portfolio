@@ -1,0 +1,28 @@
+/* tailwind.css */
+
+/* Primary colors */
+.bg-primary {
+    background-color: #1b191d; /* Replace with Uniswap primary color */
+  }
+  .text-primary {
+    color: #1b191d; /* Replace with Uniswap primary color */
+  }
+  
+  /* Secondary colors */
+  .bg-secondary {
+    background-color: #ff007a; /* Replace with Uniswap secondary color */
+  }
+  .text-secondary {
+    color: #ff007a; /* Replace with Uniswap secondary color */
+  }
+  
+  /* Text colors */
+  .text-white {
+    color: #ffffff; /* Replace with Uniswap text color */
+  }
+  
+  /* Background colors */
+  .bg-dark {
+    background-color: #0e103d; /* Replace with Uniswap background color */
+  }
+  
